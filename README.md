@@ -11,7 +11,7 @@ I've worked as a software developer in multiple industries including government,
 *   🚀  I'm currently working on [ProVinyl](http://provinyl.com)
 *   🧠  I'm learning Next.JS
 *   🤝  I'm open to collaborating on any project that solves an interesting project
-*   ⚡  I am named after Superman's dad### Skills 
+*   ⚡  I am named after Superman's dad
 
 ### Skills  
 
