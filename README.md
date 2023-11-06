@@ -10,7 +10,7 @@ I've worked as a software developer in multiple industries including government,
 *   ✉️  You can contact me at [jayjonesdevelopment@gmail.com](mailto:jayjonesdevelopment@gmail.com)
 *   🚀  I'm currently working on [ProVinyl](http://provinyl.com)
 *   🧠  I'm learning Next.JS
-*   🤝  I'm open to collaborating on any project that solves an interesting project
+*   🤝  I'm open to collaborating on any project that solves an interesting problem
 *   ⚡  I am named after Superman's dad
 
 ### Skills  
