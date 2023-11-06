@@ -6,7 +6,7 @@ keyboards + software development + tech
 
 I've worked as a software developer in multiple industries including government, aerospace, defense, security, insurance, manufacturing, and music.
 
-*   🌍  I'm based in Washington DC
+*   🌍  I'm based in Chicago
 *   ✉️  You can contact me at [jayjonesdevelopment@gmail.com](mailto:jayjonesdevelopment@gmail.com)
 *   🚀  I'm currently working on [ProVinyl](http://provinyl.com)
 *   🧠  I'm learning Next.JS
